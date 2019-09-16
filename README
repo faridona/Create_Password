@@ -1,0 +1,1 @@
+Create a program that asks a user to create a password, consisting more than two digits and at least up to eight digits in total. IF the user does not do this, end program.
